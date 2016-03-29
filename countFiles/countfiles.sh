@@ -1,4 +1,4 @@
-# Author: 	Kai WEN 1300063704
+# Author: 	Archimekai
 # Date:		20160314
 # !/bin/bash
 
